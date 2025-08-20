@@ -1,7 +1,7 @@
 # Assignment 0 Writeup
 
-Roberto Samuel Aceves
-08-18-2025
+### Roberto Samuel Aceves
+### 08-18-2025
 ---
 
 ## Reading Comprehension Questions
@@ -13,11 +13,11 @@ Git is mainly used to track changes onto code or do individual work whilst githu
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Committing is similar to saving, pushing is similar to exporting or copy/pasting. These steps are important because they allow people to save their work and be able to edit it on their own.
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+A Repository is similar to a folder, it contains markup code and seems.
 
 ---
 
