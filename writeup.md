@@ -17,7 +17,7 @@ Committing is similar to saving, pushing is similar to exporting or copy/pasting
 
 **3. What is a repository and what does it contain?**
 
-A Repository is similar to a folder, it contains markup code and seems.
+A Repository is similar to a folder, it contains markup code and it allows the storage of a website like code.
 
 ---
 
@@ -33,8 +33,7 @@ A Repository is similar to a folder, it contains markup code and seems.
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
-
+I am looking forward twoards learning about Ai and its positive/negative implications in the world. 5
 ---
 
 *Remember: This writeup will be graded based on the quality of your explanations and reflections, not just whether you got the "right" answer. Show your thinking!*
