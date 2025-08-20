@@ -1,8 +1,7 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
-**Date:** [Today's date]
-
+Roberto Samuel Aceves
+08-18-2025
 ---
 
 ## Reading Comprehension Questions
@@ -10,7 +9,7 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+Git is mainly used to track changes onto code or do individual work whilst github is more typically used for collaborative projects and storing code.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
