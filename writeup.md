@@ -25,7 +25,7 @@ A Repository is similar to a folder, it contains markup code and it allows the s
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/TheRealBobby2027/Bobbys-Repository 
 
 ---
 
@@ -33,7 +33,7 @@ A Repository is similar to a folder, it contains markup code and it allows the s
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-I am looking forward twoards learning about Ai and its positive/negative implications in the world. 5
+I am looking forward twoards learning about Ai and its positive/negative implications in the world. I would like to learn how to code and the different rules of coding. 
 ---
 
 *Remember: This writeup will be graded based on the quality of your explanations and reflections, not just whether you got the "right" answer. Show your thinking!*
