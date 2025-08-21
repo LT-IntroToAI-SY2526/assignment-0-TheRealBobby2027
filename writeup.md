@@ -33,7 +33,7 @@ https://github.com/TheRealBobby2027/Bobbys-Repository
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-I am looking forward twoards learning about Ai and its positive/negative implications in the world. I would like to learn how to code and the different rules of coding. 
+I am looking forward twoards learning about Ai and its positive/negative implications in the world. I would like to learn how to code and the different rules of coding. I want to learn how ai works and how it is that it leanrs. I am curious as to how an AI is created and its limitations. I am excited as AI is very useful and fun. 
 ---
 
 *Remember: This writeup will be graded based on the quality of your explanations and reflections, not just whether you got the "right" answer. Show your thinking!*
